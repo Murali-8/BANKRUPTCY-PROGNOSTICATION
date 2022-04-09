@@ -1,1 +1,2 @@
 # BANKRUPTCY-PROGNOSTICATION
+This model finds whether the company might go bankrupt or not. I have used RFE ( Recursive Feature Elimination ) technique for feature elimination, and used Logistic Regression as base model and used Random Forest as updated model to hyper parameter the model I have used Gridsearchcv method and saved the model as Pickle file. Deployed the application using streamlit in local server to predict.
